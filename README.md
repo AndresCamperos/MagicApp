@@ -5,8 +5,8 @@ Juego creado en Javascrip:
 
 El objetivo es que el programa advine un numero que el usuario escoja mostraado en consola
 
--Abre el archivo Index con tu navegador favorito
--Abre las opciones de desarrollador (para ver la consola en tu navegador)
+- Abre el archivo Index con tu navegador favorito
+- Abre las opciones de desarrollador (para ver la consola en tu navegador)
 - El programa te mostrara varios numeros en 3 filas
 - Elije tu numero favorito
 - El programa te preguntara en que fila se encuentra tu numero favorito
